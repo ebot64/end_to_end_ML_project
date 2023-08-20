@@ -8,8 +8,6 @@ STAGE_NAME = "Data Ingestion stage"
 class DataIngestionTrainingPipeline:
     def __init__(self):
         pass
-        """ self.config = config
-        self.data_ingestion = data_ingestion """
 
     def main(self):
         config = ConfigurationManager()
