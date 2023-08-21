@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Artificial%20Intelligence/Machine%20Learning/end_to_end_ML_project/mlruns/0/6ccf392ca95b4244955a0b8c471c6cce/artifacts
+end_time: 1692596632089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ccf392ca95b4244955a0b8c471c6cce
+run_name: redolent-ray-604
+run_uuid: 6ccf392ca95b4244955a0b8c471c6cce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692596629268
+status: 3
+tags: []
+user_id: ebot64

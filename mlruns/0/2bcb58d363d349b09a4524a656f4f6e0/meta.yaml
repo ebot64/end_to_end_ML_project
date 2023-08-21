@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Artificial%20Intelligence/Machine%20Learning/end_to_end_ML_project/mlruns/0/2bcb58d363d349b09a4524a656f4f6e0/artifacts
+end_time: 1692596478902
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bcb58d363d349b09a4524a656f4f6e0
+run_name: victorious-bug-911
+run_uuid: 2bcb58d363d349b09a4524a656f4f6e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692596475650
+status: 3
+tags: []
+user_id: ebot64
