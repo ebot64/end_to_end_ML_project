@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Artificial%20Intelligence/Machine%20Learning/end_to_end_ML_project/mlruns/0/4b618715b13346f8a5f0897ef6b03a2f/artifacts
+end_time: 1692648842885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b618715b13346f8a5f0897ef6b03a2f
+run_name: bustling-smelt-186
+run_uuid: 4b618715b13346f8a5f0897ef6b03a2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692648839559
+status: 3
+tags: []
+user_id: ebot64

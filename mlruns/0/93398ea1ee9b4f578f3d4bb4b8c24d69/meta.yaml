@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Artificial%20Intelligence/Machine%20Learning/end_to_end_ML_project/mlruns/0/93398ea1ee9b4f578f3d4bb4b8c24d69/artifacts
+end_time: 1692648215433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93398ea1ee9b4f578f3d4bb4b8c24d69
+run_name: learned-fly-947
+run_uuid: 93398ea1ee9b4f578f3d4bb4b8c24d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692648212107
+status: 3
+tags: []
+user_id: ebot64

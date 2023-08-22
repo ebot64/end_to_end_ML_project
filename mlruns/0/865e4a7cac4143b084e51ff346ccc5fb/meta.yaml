@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Artificial%20Intelligence/Machine%20Learning/end_to_end_ML_project/mlruns/0/865e4a7cac4143b084e51ff346ccc5fb/artifacts
+end_time: 1692647966823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 865e4a7cac4143b084e51ff346ccc5fb
+run_name: sedate-conch-736
+run_uuid: 865e4a7cac4143b084e51ff346ccc5fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692647962325
+status: 3
+tags: []
+user_id: ebot64

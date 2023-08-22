@@ -78,7 +78,6 @@ class ConfigurationManager:
             alpha = params.alpha,
             l1_ratio = params.l1_ratio,
             target_column = schema.name
-            
         )
 
         return model_trainer_config
@@ -98,8 +97,7 @@ class ConfigurationManager:
             all_params=params,
             metric_file_name = config.metric_file_name,
             target_column = schema.name,
-            mlflow_uri="https://dagshub.com/ebot64/end_to_end_ML_project.mlflow",
-           
+            mlflow_uri="https://dagshub.com/ebot64/end_to_end_ML_project.mlflow"
         )
 
         return model_evaluation_config

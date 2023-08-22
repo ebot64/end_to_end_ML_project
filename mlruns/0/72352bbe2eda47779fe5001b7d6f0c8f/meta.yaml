@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Artificial%20Intelligence/Machine%20Learning/end_to_end_ML_project/mlruns/0/72352bbe2eda47779fe5001b7d6f0c8f/artifacts
+end_time: 1692672541009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72352bbe2eda47779fe5001b7d6f0c8f
+run_name: wise-finch-815
+run_uuid: 72352bbe2eda47779fe5001b7d6f0c8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692672538212
+status: 3
+tags: []
+user_id: ebot64
