@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Artificial%20Intelligence/Machine%20Learning/end_to_end_ML_project/mlruns/0/bb26c644ff454583963a1d2a94274a5e/artifacts
+end_time: 1692676667524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb26c644ff454583963a1d2a94274a5e
+run_name: judicious-mole-896
+run_uuid: bb26c644ff454583963a1d2a94274a5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692676664748
+status: 3
+tags: []
+user_id: ebot64

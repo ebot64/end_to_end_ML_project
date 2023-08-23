@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Artificial%20Intelligence/Machine%20Learning/end_to_end_ML_project/mlruns/0/4efb48ae39974d8cb19779759b178cfd/artifacts
+end_time: 1692676661918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4efb48ae39974d8cb19779759b178cfd
+run_name: treasured-boar-721
+run_uuid: 4efb48ae39974d8cb19779759b178cfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692676659010
+status: 3
+tags: []
+user_id: ebot64
