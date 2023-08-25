@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Artificial%20Intelligence/Machine%20Learning/end_to_end_ML_project/mlruns/0/10ce63d9c5cb46698925cd5e8949585a/artifacts
+end_time: 1692957598280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10ce63d9c5cb46698925cd5e8949585a
+run_name: unruly-midge-275
+run_uuid: 10ce63d9c5cb46698925cd5e8949585a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692957593641
+status: 3
+tags: []
+user_id: ebot64
