@@ -11,7 +11,6 @@ AUTHOR_USER_NAME = "ebot64"
 SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "ebot64@yahoo.com"
 
-
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
